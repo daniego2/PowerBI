@@ -1,9 +1,9 @@
 # PowerBI
 In this repository I will be commiting my powerbi dashboards that I do as part of my learning process.
 
-See my dasboards online:
+I recommend to see my dasboards online by clicking in the links below:
 
-(Disclaimer: All dashboards below are made with fictional and public datasets)
+(Disclaimer: All my dashboards are made with fictional and public datasets)
 
 1st Practice: A marketing campaign as a little aproach to loading data into PowerBI, with basic visual elements and different interactions between them
 
